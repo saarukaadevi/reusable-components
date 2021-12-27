@@ -1,0 +1,26 @@
+{
+  "name": "resuable-elements",
+  "version": "1.0.0",
+  "description": "All type of resuable components in react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saarukaadevi/reusable-components.git"
+  },
+  "keywords": [
+    "reusable"
+  ],
+  "author": "saaruDeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saarukaadevi/reusable-components/issues"
+  },
+  "homepage": "https://github.com/saarukaadevi/reusable-components#readme",
+  "devDependencies": {
+    "@types/react": "^17.0.37",
+    "@types/react-native": "^0.66.9"
+  }
+}

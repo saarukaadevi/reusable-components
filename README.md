@@ -1,0 +1,1 @@
+commonly using customized components are compressed as NPM
